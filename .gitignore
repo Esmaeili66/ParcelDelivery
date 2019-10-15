@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs/Github.ParcelDelivery/v16
+/ParcelDelivery.AcceptanceTests/bin/Debug/netcoreapp2.2
+/ParcelDelivery.AcceptanceTests/obj
+/ParcelDelivery.Core/bin/Debug/netcoreapp2.2
+/ParcelDelivery.Core/obj
+/ParcelDelivery.UnitTests/bin/Debug/netcoreapp2.2
+/ParcelDelivery.UnitTests/obj
